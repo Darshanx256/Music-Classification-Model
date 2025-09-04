@@ -6,7 +6,7 @@ A lightweight and accurate music genre classification tool built using filtered 
 
 ## 📌 Overview
 
-This classifier detects the genre of an audio file (MP3/WAV) using deep learning. It utilizes **Mel Spectrograms** and a **CNN architecture** trained on the GTZAN dataset — a widely used benchmark containing tracks labeled under 10 genres.
+This classifier detects the genre of an audio file (MP3/WAV) using deep learning. It utilizes **Mel Spectrograms** and a **CNN architecture** trained on the GTZAN dataset which is a widely used benchmark containing tracks labeled under 10 genres.
 
 Genres:  
 `blues`, `classical`, `country`, `disco`, `hiphop`, `jazz`, `metal`, `pop`, `reggae`, `rock`
